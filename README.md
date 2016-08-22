@@ -1,4 +1,4 @@
-### Ludum Dare 36 Start Code
+### Ludum Dare 36 Base Code
 
 #### Thanks [Belén Albeza](https://github.com/belen-albeza)!
 
