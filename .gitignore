@@ -1,0 +1,7 @@
+node_modules
+raw_audio
+raw_images
+.idea
+.tmp
+dist
+gulp.config.json

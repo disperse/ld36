@@ -1,0 +1,21 @@
+{
+  "version": "0.0.0",
+  "name": "ld36",
+  "author": "disperse",
+  "license": "MIT",
+  "repository": "disperse/ld36",
+  "dependencies": {
+    "browserify": "*",
+    "gulp": "*",
+    "gulp-connect": "*",
+    "gulp-livereload": "*",
+    "gulp-rsync": "*",
+    "gulp-util": "*",
+    "phaser": "*",
+    "vinyl-source-stream": "*",
+    "watchify": "*"
+  },
+  "devDependencies": {
+    "gulp-livereload": "^3.8.1"
+  }
+}
