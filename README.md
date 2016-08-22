@@ -1,9 +1,7 @@
-== Ludum Dare 36 Start Code
+### Ludum Dare 36 Start Code
 
-=== Notes
+#### Notes
 
-Web-based bitmap font generator: http://kvazars.com/littera/
-
-Use TexturePacker to turn raw_images into textures.json and textures.png
-
-`gulp run` command will allow LiveReload using the Chrome plugin
+- Use web-based bitmap font generator: http://kvazars.com/littera/
+- Use TexturePacker to turn raw_images into textures.json and textures.png
+- `gulp run` command will allow LiveReload using the Chrome plugin
