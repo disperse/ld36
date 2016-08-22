@@ -5,3 +5,4 @@ raw_images
 .tmp
 dist
 gulp.config.json
+.DS_Store
